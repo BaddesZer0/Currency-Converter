@@ -16,7 +16,7 @@ Nasıl Çalıştırılır?
 
 2)İlk adımda girdiyi girerken tüm harflerin büyük olması gerekmektedir,aksi halde hata mesajı alırsınız.
 
-3)Yapılmasını istediğiniz dönüşümün hangi döviz için yapılacağını seçiniz,işlem yağılabilen dövizler harici bir döviz seçilirse sistem tarafından uyarılırsınız.
+3)Yapılmasını istediğiniz dönüşümün hangi döviz için yapılacağını seçiniz,işlem yapılabilen dövizler harici bir döviz seçilirse sistem tarafından uyarılırsınız.
 
 4)Dönüşümün hesaplanması için mevcut olan TL/DÖVİZ miktarını giriniz.
 
