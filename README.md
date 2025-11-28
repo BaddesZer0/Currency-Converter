@@ -10,7 +10,7 @@ b)EUR
 
 c)GBP
 
-Nasıl Çalıştırılır?
+Nasıl Çalıştırılır?:
 
 1)Program çalıştırıldığında size ilk olarak yapılacak dönüşümün yönünü sormaktadır,TL -> DÖVİZ için "DÖVİZ ALIMI",DÖVİZ -> TL için "DÖVİZ SATIŞI" girmeniz gerekmektedir.
 
